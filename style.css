@@ -1,0 +1,23 @@
+h2{
+    color: #20B2AA;
+}
+ul{
+    color: blue;
+}
+
+body{
+    background-image: linear-gradient(to right, rgb(0, 255, 213), yellow)
+}
+.int1{
+    color: black;
+}
+.int2{ 
+    color:rgb(255, 0, 0);
+}
+ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(0, 17, 255), rgb(178, 236, 16))
+}
